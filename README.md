@@ -16,3 +16,11 @@ I am a passionate and extremely committed software developer having a strong int
 - Developing the backend for the application using PHP and SQL
 - Smooth video generation with Text-To-Speech functionality
 
+## Specialisations
+- Achieved Meta Frontend Developer specialisation certification
+- Achieved Google UX/UI Designer specialisation certification
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/tasbehanawaz/)
+
+
