@@ -9,8 +9,6 @@ I am a passionate and extremely committed software developer having a strong int
 - Passionate about frontend and backend technologies and frameworks
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?
-i=typescript,php,java,react,node.js,mysql,js,html,css,linux,git,tailwind,aws,next.js,opencv,cloud,apis,figma)]
-(https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,php,java,react,node.js,mysql,html,css,linux,git,tailwind,aws,next.js,opencv,cloud,apis,figma)](https://skillicons.dev)
 
 
