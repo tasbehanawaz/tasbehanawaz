@@ -11,4 +11,8 @@ I am a passionate and extremely committed software developer having a strong int
 ## Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=typescript,php,java,react,vite,nodejs,mysql,html,css,linux,git,tailwind,aws,nextjs,opencv,processing,bash,gitlab,figma)](https://skillicons.dev)
 
+## Currently working
+- I'm currently Working on developing the autonomous yoga application
+- Developing the backend for the application using PHP and SQL
+- Smooth video generation with Text-To-Speech functionality
 
