@@ -35,6 +35,7 @@ I am a passionate and extremely committed software developer having a strong int
 ## Specialisations
 - Achieved Meta Frontend Developer specialisation certification
 - Achieved Google UX/UI Designer specialisation certification
+- Achieved Graphic Design specialisation certification
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/tasbehanawaz/)
