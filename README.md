@@ -10,7 +10,7 @@ I am a passionate and extremely committed software developer having a strong int
 - Passionate about frontend and backend technologies and frameworks
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,php,java,react,python,vite,nodejs,mysql,html,css,linux,git,tailwind,aws,nextjs,opencv,processing,bash,gitlab,figma,wix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,php,java,react,python,mysql,vite,nodejs,mysql,html,css,linux,git,fastapi,tailwind,aws,nextjs,netlify,opencv,processing,bash,gitlab,figma)](https://skillicons.dev)
 
 ## Projects
 ### An Accessible website for Autistic and Neruodiverse Users - Lotus Collaborations
