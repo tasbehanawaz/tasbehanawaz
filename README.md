@@ -2,16 +2,29 @@
 I am a passionate and extremely committed software developer having a strong interest in developing end-to-end applications that offer satisfying and affordable solutions. 
 
 ## About me
-- Postgraduate student at the University of Kent
+- An MSc Computer Science graduate from the University of Kent
 - Certified Frontend developer and UX/UI Designer
+- Worked as a Website Designer/Manager at Lotus Collaborations
 - Worked as a Web Developer Intern at 10zyme
 - Extensive experience in working using React
 - Passionate about frontend and backend technologies and frameworks
 
 ## Tech Skills
-[![My Skills](https://skillicons.dev/icons?i=typescript,php,java,react,vite,nodejs,mysql,html,css,linux,git,tailwind,aws,nextjs,opencv,processing,bash,gitlab,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,php,java,react,python,vite,nodejs,mysql,html,css,linux,git,tailwind,aws,nextjs,opencv,processing,bash,gitlab,figma,wix)](https://skillicons.dev)
 
 ## Projects
+### An Accessible website for Autistic and Neruodiverse Users - Lotus Collaborations
+- Designed a website centered around accessibility understanding diverse communities through research and talks
+- Created and iterated over designs by crafting design palettes, logos and mockups considering the clients requirements
+- Integrated UserWay accessibility to provide flexibility so the users can customise the website to their preferences
+- Created UI mockups, planned the featured changes, gathered feedback and delivered a highly customised website
+
+### Yoga Application using Web APIs
+- Built a customisable yoga platform that generates personalised audio-video yoga sessions using AI-driven TTS
+- Developed a scalable backend integrating external APIs to fetch and classify 40+ yoga poses based on diﬀiculty levels
+- Created a React-based frontend with dynamic filtering, interactive sequence generation, and seamless UI 
+- Optimised pose retrieval and session storage, improving search eﬀiciency and user engagement through a structured database management
+
 ### AI-Powered Film Assistant
 - Developed an artificial intelligence (AI) film assistant that greatly reduces time and effort by automating the narration process and generating accompanying images
 - Created a Java-based AI-powered film assistant that automates the creation of stories, saving 20% of the pre-production period and allowing filmmakers to spend more time on their creative work
@@ -28,9 +41,7 @@ I am a passionate and extremely committed software developer having a strong int
 - Implemented a customizable reservation system that allows users to select their preferred table, occasion, and time, along with a real-time table availability display
 
 ## Currently working
-- I'm currently Working on developing the autonomous yoga application
-- Developing the backend for the application using PHP and SQL
-- Smooth video generation with Text-To-Speech functionality
+- I'm currently Working on developing a Real-Time AI-Powered News & Content Summarizer (Stay tuned for more updates!)
 
 ## Specialisations
 - Achieved Meta Frontend Developer specialisation certification
